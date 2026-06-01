@@ -97,7 +97,7 @@ I'm a passionate **Web Engineer** at **Elexoft Technologies**, focused on crafti
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=waleedtechdev09-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=waleedtechdev09-glitch&theme=darkhub&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
